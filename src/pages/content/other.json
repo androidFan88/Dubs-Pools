@@ -1,0 +1,35 @@
+[
+    {
+        "Service" : "Eavestrough cleaning promos",
+        "Types" : [
+            {"description" : "Prepare your home for winter conditions!" , "uri" : "Gutters3.jpg"},
+            {"description" : "The only way to ensure your downspout is clear, is to climb up to it and clean it out by hand." , "uri" : "Gutters4.jpg"},
+            {"description" : "We remove debris by hand, bag it up and dispose of it for you." , "uri" : "Gutters2.jpg"}
+            
+        ]
+    },
+    {
+        "Service" : "Eavestrough cleaning",
+        "Types" : [
+            {"description" : "Single story homes" , "price" : "Starting at $150" , "uri" : "Gutters.jpg"},
+            {"description" : "Two story homes" , "price" : "Starting at $200"},
+            {"description" : "free quotes"}
+        ]
+    },
+    {
+        "Service" : "Christmas Lights install",
+        "Types" : [
+            {"description" : "Light up your home this holiday season"},
+            {"description" : "Hassle free"},
+            {"description" : "Light leasing available (make your own design/colours and not have to worry about storage)"},
+            {"description" : "free quotes"}
+        ]
+    },
+    {
+        "Service" : "Driveway Sealing",
+        "Types" : [
+            {"description" : "Restore the colour of your driveway with tarmac grade sealant."},
+            {"description" : "free quotes"}
+        ]
+    }
+]

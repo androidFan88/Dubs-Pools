@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(74, 191, 234);
+}
+
+.black {
+    background-color: black !important;
+    border-color: black;
+    color: #FFFFFF !important;
+    font-size: 4vh;
+}
+
+.pageHeader {
+    background-color: rgb(17,75,123);
+    text-align: center;
+    color : #FFFFFF;
+}
+
+.dropItem {
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    padding : 1vh;
+}
+
+@font-face {
+    font-family: 'Cormorant';
+    src : url(./Cormorant/static/Cormorant-SemiBold.ttf) format('truetype');
+  }
+  
+* {
+    font-family: Coromont;
+}
+
+#appWrapper {
+    display: flex;
+    flex-direction: column;
+    height : 100%;
+}

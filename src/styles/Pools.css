@@ -1,0 +1,33 @@
+#title {
+    z-index: 0;
+}
+
+.pageHeader > h1 { 
+    margin-bottom: 0;
+}
+
+#scrollableDiv {
+    overflow: scroll;
+    height: 80vh;
+    background-color: rgb(74, 191, 234);
+    color : white;
+}
+
+.pageSubheader {
+    background-color: rgb(18, 148, 208);
+    color: #FFFFFF;
+}
+
+.blue { 
+    background-color: rgb(18, 148, 208);
+    border : 4px solid rgb(17,75,123);;
+    color: #FFFFFF;
+}
+
+.footer {
+    background-color: rgb(17,75,123);
+}
+
+.pools {
+    background-color: rgb(74, 191, 234);
+}

@@ -1,0 +1,46 @@
+[
+    {"Service" : "Pool Openings",
+     "Types" : [
+            {"description" : "Full lock in/water bag cover + startup included", "price" : "$325" , "uri" : "Pool1.webp"},
+            {"description" : "Full safety cover + startup included", "price" : "$279", "uri" : "safety-cover.webp"},
+            {"description" : "Partial lock in/water bag + startup included", "disclaimer" : "*The customer is required to remove all water off of cover before arrival.", "price" : "$225" , "uri" : "Pool1.webp"},
+            {"description" : "Start up only", "disclaimer" : "* The customer is required to remove cover before arrival.","price" : "$100" , "uri" : "Pool2.webp"}
+        ]
+    },
+    {
+        "Service" : "Pool Maintenance",
+        "Types" : [
+            {"description" : "One time vacuum and chemical check" , "price" : "$85"},
+            {"description" : "Weekly Vacuum and chemical check / 1 visit a week" , "price" : "$25"},
+            {"description" : "Weekly Vacuum and chemical check / 2 visits a week" , "price" : "$115"}
+        ]
+    },
+    {
+        "Service" : "Pool Closings",
+        "Types" : [
+            {"description" : "Full closing" , "price" : "$325", "uri" : "tarpbag.webp"},
+            {"description" : "Partial closing" , "disclaimer" : "*The customer is required to lower the water level to the bottom of the lowest return before arrival." , "price" : "$250"},
+            {"description" : "Equipment winterization" , "disclaimer" : "*The customer is required to lower the water before arrival and put the cover on once the winterization is complete.", "price" : "$225"}
+        ]
+    },
+    {
+        "Service" : "Additional Pool Services",
+        "Types" : [
+            {"description" : "Cartridge cleaning - A two visit process by removing the filters and cleaning with 1L of filter cleaner, return visit to reinstall once soaking and cleaning is completed. (recommended once a year)" , "price" : "$249" , "uri" : "cartridge.webp"},
+            {"description" : "Opening kit" , "price" : "$50", "uri" : "chemkit.webp"},
+            {"description" : "Additional cover or leaf net" , "price" : "$50"},
+            {"description" : "Salt cell cleaning (recommended once a year)" , "price" : "$30"},
+            {"description" : "10L of chlorine (recommended for safety cover opening)" , "price" : "$25" , "uri" : "chlorine.webp"},
+            {"description" : "Opening of waterfall" , "price" : "$25", "uri" : "waterfall.webp"},
+            {"description" : "Opening of attached spa" , "price" : "$75" , "uri" : "hottub.webp"},
+            {"description" : "Cartridge cleaning - A two visit process by removing the filters and cleaning with 1L of filter cleaner, return visit to reinstall once soaking and cleaning is completed." , "price" : "$249", "uri" : "cartridge.webp"},
+            {"description" : "Filter sand change" , "price" : "free quote", "uri" : "filter.webp"},
+            {"description" : "Liner pull - Put liner back into track (over 2 spots is additional)" , "price" : "$50",  "uri" : "vinyl.jpg"},
+            {"description" : "Replace pump" , "price" :"free quote",  "uri" : "pump.webp"},
+            {"description" : "Replace filter" , "price" :"free quote",  "uri" : "filter.webp"},
+            {"description" : "Safety cover install" , "price" :"free quote",  "uri" : "safety-cover.webp"},
+            {"description" : "Above ground plumbing" , "price" :"free quote", "uri" : "plumbing.webp"},
+            {"description" : "Hot tub cleaning" , "price" : "$279",  "uri" : "hottub.webp" }
+        ]
+    }
+]
